@@ -41,7 +41,7 @@ Here are the steps we follow:
    the report has been accepted or rejected, with an explanation.
 1. If a report is rejected, there is nothing else to do. If accepted, the process continues.
 1. The Kiwi TCMS team will notify GitHub within 24 hours of a confirmed report.
-   Note: this is a requirement for our listing on GitHub Marketplace!
+   Note: per our GitHub Marketplace agreement!
 1. The Kiwi TCMS team will prepare a fix and an accompanying announcement.
 1. The Kiwi TCMS team will share the fix and draft announcement with the reporter.
 1. Kiwi TCMS and the reporter will negotiate the fix, announcement, and release schedule.
