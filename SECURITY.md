@@ -9,7 +9,7 @@
 ## Supported resources
 
 - All repositories published under https://github.com/kiwitcms/
-- Our GitHub Marketplace instegration at https://github.com/marketplace/kiwi-tcms/
+- Our GitHub Marketplace integration at https://github.com/marketplace/kiwi-tcms/
 - Our GitHub integration App accessible at https://github.com/apps/kiwi-tcms
 - Public & Private Tenant SaaS from https://public.tenant.kiwitcms.org/
 
