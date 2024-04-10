@@ -11,7 +11,13 @@
 - All repositories published under https://github.com/kiwitcms/
 - Our GitHub Marketplace integration at https://github.com/marketplace/kiwi-tcms/
 - Our GitHub integration App accessible at https://github.com/apps/kiwi-tcms
-- Public & Private Tenant SaaS from https://public.tenant.kiwitcms.org/
+- Public Demo SaaS at https://public.tenant.kiwitcms.org
+
+
+**IMPORTANT:** if you are performing a security scan on behalf of a third party
+please install a self-hosted instance of the `kiwitcms/Kiwi` container before
+probbing any of our digital properties!
+
 
 ## Reporting a Vulnerability
 
