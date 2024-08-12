@@ -55,3 +55,7 @@ Here are the steps we follow:
    The commits and releases will be made as close to the announcement as possible, and
    will not mention that they address a security vulnerability.
 1. Release announcements for the new version(s) will go out as normal.
+
+## Rewards
+
+Kiwi TCMS currently does not offer rewards for disclosing security vulnerabilities.
