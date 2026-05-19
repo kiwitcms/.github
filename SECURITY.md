@@ -15,8 +15,8 @@
 
 
 **IMPORTANT:** if you are performing a security scan on behalf of a third party
-please install a self-hosted instance of the `kiwitcms/Kiwi` container before
-probbing any of our digital properties!
+please install a self-hosted instance of the Kiwi TCMS
+[container](https://kiwitcms.org/containers/) before probbing any of our digital properties!
 
 
 ## Reporting a Vulnerability
@@ -24,21 +24,23 @@ probbing any of our digital properties!
 In case you have found a security problem with any of the resources mentioned
 above **DO NOT** report it into GitHub Issues!
 
-Email the Kiwi TCMS team directly at *info@kiwitcms.org* to coordinate the fix
-and discloser of the issue.
+Please go to
+[https://github.com/kiwitcms/Kiwi/security](https://github.com/kiwitcms/Kiwi/security)
+and click the "Report a vulnerability" button there.
 
 
-Alternatively you can go to
-[https://tidelift.com/security](https://tidelift.com/security)
-and follow the instructions there. Kiwi TCMS is a registered partner of Tidelift
-and will be notified when you report the security problem with them!
+Alternatively you could email the Kiwi TCMS team directly at *info@kiwitcms.org* to
+coordinate the fix and disclosure of the issue but we do prefer using GitHub.
+
+
 
 
 ## Security process
 
 Here are the steps we follow:
 
-1. The person discovering an issue (the reporter) privately reports it to info@kiwitcms.org.
+1. The person discovering an issue (the reporter) privately reports it via
+   [https://github.com/kiwitcms/Kiwi/security](https://github.com/kiwitcms/Kiwi/security)
 1. The Kiwi TCMS team will reply to the reporter within 24 hours to acknowledge receipt.
 1. The Kiwi TCMS team will start investigating the report.
 1. The Kiwi TCMS team & reporter will keep the report confidential.
