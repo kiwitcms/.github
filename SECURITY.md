@@ -25,7 +25,7 @@ In case you have found a security problem with any of the resources mentioned
 above **DO NOT** report it into GitHub Issues!
 
 Please go to
-[https://github.com/kiwitcms/Kiwi/security](https://github.com/kiwitcms/Kiwi/security)
+[https://github.com/kiwitcms/kiwitcms/security](https://github.com/kiwitcms/kiwitcms/security)
 and click the "Report a vulnerability" button there.
 
 
@@ -40,7 +40,7 @@ coordinate the fix and disclosure of the issue but we do prefer using GitHub.
 Here are the steps we follow:
 
 1. The person discovering an issue (the reporter) privately reports it via
-   [https://github.com/kiwitcms/Kiwi/security](https://github.com/kiwitcms/Kiwi/security)
+   [https://github.com/kiwitcms/kiwitcms/security](https://github.com/kiwitcms/kiwitcms/security)
 1. The Kiwi TCMS team will reply to the reporter within 24 hours to acknowledge receipt.
 1. The Kiwi TCMS team will start investigating the report.
 1. The Kiwi TCMS team & reporter will keep the report confidential.
